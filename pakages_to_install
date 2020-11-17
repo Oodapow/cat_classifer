@@ -1,0 +1,24 @@
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+Some packages could not be installed. This may mean that you have
+requested an impossible situation or if you are using the unstable
+distribution that some required packages have not yet been created
+or been moved out of Incoming.
+The following information may help to resolve the situation:
+
+The following packages have unmet dependencies:
+ nvidia-driver-455 : Depends: nvidia-kernel-source-455 (= 455.38-0ubuntu0.20.04.1) but it is not going to be installed
+                     Depends: libnvidia-compute-455 (= 455.38-0ubuntu0.20.04.1) but it is not going to be installed
+                     Depends: libnvidia-extra-455 (= 455.38-0ubuntu0.20.04.1) but it is not going to be installed
+                     Depends: nvidia-compute-utils-455 (= 455.38-0ubuntu0.20.04.1) but it is not going to be installed
+                     Depends: libnvidia-decode-455 (= 455.38-0ubuntu0.20.04.1) but it is not going to be installed
+                     Depends: libnvidia-encode-455 (= 455.38-0ubuntu0.20.04.1) but it is not going to be installed
+                     Depends: nvidia-utils-455 (= 455.38-0ubuntu0.20.04.1) but it is not going to be installed
+                     Depends: xserver-xorg-video-nvidia-455 (= 455.38-0ubuntu0.20.04.1) but it is not going to be installed
+                     Depends: libnvidia-cfg1-455 (= 455.38-0ubuntu0.20.04.1) but it is not going to be installed
+                     Depends: libnvidia-fbc1-455 (= 455.38-0ubuntu0.20.04.1) but it is not going to be installed
+                     Recommends: libnvidia-compute-455:i386 (= 455.38-0ubuntu0.20.04.1)
+                     Recommends: libnvidia-decode-455:i386 (= 455.38-0ubuntu0.20.04.1)
+                     Recommends: libnvidia-encode-455:i386 (= 455.38-0ubuntu0.20.04.1)
+                     Recommends: libnvidia-fbc1-455:i386 (= 455.38-0ubuntu0.20.04.1)
